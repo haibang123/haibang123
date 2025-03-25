@@ -1,4 +1,4 @@
-### Hi there 👋
+### Xin Chào, Mình là Hải Bằng, Chào mừng bạn đến với kênh github😄😄😄
 
 <!--
 **haibang123/haibang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
